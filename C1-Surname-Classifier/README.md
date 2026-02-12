@@ -47,11 +47,11 @@ pip install -r requirements.txt
 
 | # | Task | Status |
 |---|------|--------|
-| 1 | Compute bigram frequencies (most/least frequent) | ⬜ Pending |
-| 2 | Find least informative bigram for classification | ⬜ Pending |
-| 3 | Build classifier, report precision and recall | ⬜ Pending |
-| 4 | Add smoothing/backoff (if using LM approach) | ⬜ Pending |
-| 5 | Find more English data and retrain | ⬜ Pending |
+| 1 | Compute bigram frequencies (most/least frequent) | ✅ Done |
+| 2 | Find least informative bigram for classification | ✅ Done |
+| 3 | Build classifier, report precision and recall | ✅ Done |
+| 4 | Add smoothing/backoff (if using LM approach) | ✅ Done |
+| 5 | Find more English data and retrain | ✅ Done |
 
 See the `tasks/` folder for detailed descriptions of each task.
 
