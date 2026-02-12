@@ -1,4 +1,5 @@
 # Task 2: Least Informative Bigram
+## For Joel Martinez
 
 ## Objective
 Determine which bigram is **least informative** for distinguishing between English and Russian names.

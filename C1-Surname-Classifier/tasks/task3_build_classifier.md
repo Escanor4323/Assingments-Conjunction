@@ -1,4 +1,5 @@
 # Task 3: Build Classifier Using Bigram Frequencies
+## For Nairuti
 
 ## Objective
 Using your bigram frequencies, build a simple model for identifying Russian names. Report precision and recall on `Russian-and-English-dev.txt`.
